@@ -1,0 +1,11 @@
+---
+title: "Häufige Funktionen"
+author: "Ron"
+editor: visual
+---
+
+### Seitenbreite rechts ausnutzen:
+
+```{r}
+wie geht das?
+```
