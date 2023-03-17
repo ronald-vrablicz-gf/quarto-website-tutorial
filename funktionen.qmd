@@ -1,11 +1,9 @@
 ---
-title: "Häufige Funktionen"
+title: "Meine Fragen"
 author: "Ron"
 editor: visual
 ---
 
-### Seitenbreite rechts ausnutzen:
+### Seitenbreite rechts ausnutzen, und mehr:
 
-```{r}
-wie geht das?
-```
+wird hier beschrieben: <https://quarto.org/docs/authoring/article-layout.html>

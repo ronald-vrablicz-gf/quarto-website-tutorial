@@ -7,13 +7,14 @@ website:
  # site-url: "https://openscapes.github.io/quarto-website-tutorial" 
  # repo-url: https://github.com/openscapes/quarto-website-tutorial 
   repo-actions: [edit, issue]
+  favicon: "images/VR.png"
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Openscapes, 2022"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/GFlogo.jpg"
     pinned: true
     align: center
     tools: 
@@ -45,13 +46,13 @@ website:
 
   navbar:
     pinned: TRUE
-    #logo: /Logos/GFlogo.jpg
+    logo: "images/VR.png"
     left: 
       - icon: house-door
         text: "Home"
         file: index.qmd
       - icon: house-door
-        test: "Funktionen"
+        text: "Fragen"
         file: funktionen.qmd
     right:
       - about.qmd
@@ -71,5 +72,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
