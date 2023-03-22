@@ -7,3 +7,8 @@ editor: visual
 ### Seitenbreite rechts ausnutzen, und mehr:
 
 wird hier beschrieben: <https://quarto.org/docs/authoring/article-layout.html>
+
+### 
+Anordnung von Grafiken und mehr
+
+[Quarto - Figures](https://quarto.org/docs/authoring/figures.html)
