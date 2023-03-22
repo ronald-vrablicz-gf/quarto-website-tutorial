@@ -51,7 +51,7 @@ website:
       - icon: house-door
         text: "Home"
         file: index.qmd
-      - icon: house-door
+      - icon: question
         text: "Fragen"
         file: fragen.qmd
     right:
