@@ -9,3 +9,6 @@ _site/
 
 .DS_Store
 *.html
+_site/search.json
+_site/site_libs/bootstrap/bootstrap-dark.min.css
+_site/site_libs/bootstrap/bootstrap.min.css
