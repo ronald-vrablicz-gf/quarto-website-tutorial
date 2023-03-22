@@ -1,0 +1,21 @@
+---
+title: "Meine Fragen"
+author: "Ron"
+editor: visual
+engine: knitr
+---
+
+### Page Layout
+
+z.b Wie kann ich die Seitenbreite rechts ausnutzen, und mehr:\
+wird hier beschrieben: <https://quarto.org/docs/authoring/article-layout.html>
+
+### Chunk optons
+
+z.b.: Wie kann ich einstellen, dass chunk code nicht in Ergebnis aufscheint
+[Quarto - Execution Options](https://quarto.org/docs/computations/execution-options.html)
+
+```{bash}
+
+echo "foo" 
+```
