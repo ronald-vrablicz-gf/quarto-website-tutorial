@@ -319,6 +319,6 @@
     "href": "frage.html",
     "title": "Meine Fragen",
     "section": "",
-    "text": "Chunk optons\nz.b.: Wie kann ich einstellen, dass chunk code nicht in Ergebnis aufscheint Quarto - Execution Options\n\n\necho \"foo\" \n\nfoo"
+    "text": "Page Layout\nz.b Wie kann ich die Seitenbreite rechts ausnutzen, und mehr:\nwird hier beschrieben: https://quarto.org/docs/authoring/article-layout.html\n\n\nChunk optons\nz.b.: Wie kann ich einstellen, dass chunk code nicht in Ergebnis aufscheint Quarto - Execution Options\n\n\necho \"foo\" \n\n/usr/bin/bash: warning: setlocale: LC_ALL: cannot change locale (German_Austria.1252)\nfoo"
   }
 ]
