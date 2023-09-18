@@ -3,6 +3,14 @@ title: "Meine Fragen"
 author: "Ron"
 editor: visual
 engine: knitr
+toc: true
+format:
+  html: 
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
 ---
 
 ### Page Layout
@@ -19,3 +27,14 @@ z.b.: Wie kann ich einstellen, dass chunk code nicht in Ergebnis aufscheint
 
 echo "foo" 
 ```
+
+### toc Position
+z.b. wie kann ich toc weiter nach nach rechts verschieben und den Hauptteil breiter machen
+
+Antwort:
+siehe
+<https://quarto.org/docs/output-formats/page-layout.html#grid-customization>
+
+### publish
+Wie kann eine Seite auf QuartoPub veröffentlicht werden?
+- > siehe <https://quarto.org/docs/publishing/quarto-pub.html>
